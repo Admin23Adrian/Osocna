@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="imgs">
+    <file>imagenes/schedule.svg</file>
+    <file>imagenes/ajustes.svg</file>
+  </qresource>
+</RCC>
